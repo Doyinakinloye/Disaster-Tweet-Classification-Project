@@ -25,9 +25,9 @@ On the custom dataset: the model achieved substantially higher accuracy and AUC 
 
 📈 Model Performance
 
-Dataset	          Accuracy	 F1-Score 	ROC–AUC
-* Kaggle (original)  	~0.72	    ~0.70	     ~0.74
-* Custom (curated)	~0.89	      ~0.88	     ~0.91
+Dataset	          	  	
+* Kaggle (original)  	Accuracy ~ 0.72	  F1-Score ~ 0.70	     ROC–AUC ~ 0.74
+* Custom (curated)	  Accuracy ~ 0.89	  F1-Score ~ 0.88	     ROC–AUC ~ 0.91
 
 - Observation: The Kaggle dataset’s noisy labels limited performance.
 
