@@ -24,8 +24,9 @@ On the Kaggle dataset: performance was limited due to noisy labels.
 On the custom dataset: the model achieved substantially higher accuracy and AUC scores, demonstrating the importance of high-quality data.
 
 🧩 Tech Stack
-Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 
-Google Colab
+- Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 
-Dataset: Kaggle Disaster Tweets + Custom curated dataset
+- Google Colab
+
+- Dataset: Kaggle Disaster Tweets + Custom curated dataset
