@@ -23,6 +23,16 @@ On the Kaggle dataset: performance was limited due to noisy labels.
 
 On the custom dataset: the model achieved substantially higher accuracy and AUC scores, demonstrating the importance of high-quality data.
 
+📈 Model Performance
+
+Dataset	          Accuracy	 F1-Score 	ROC–AUC
+* Kaggle (original)  	~0.72	    ~0.70	     ~0.74
+* Custom (curated)	~0.89	      ~0.88	     ~0.91
+
+- Observation: The Kaggle dataset’s noisy labels limited performance.
+
+- Improvement: On the custom dataset, the models achieved substantially higher accuracy and AUC scores, proving the importance of high-quality data.
+
 🧩 Tech Stack
 
 - Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
