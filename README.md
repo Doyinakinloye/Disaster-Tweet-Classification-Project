@@ -9,7 +9,7 @@ To address this, a custom dataset was curated and cleaned, resulting in signific
 🚀 Features
 - Text preprocessing: tokenization, stopword removal, stemming, and normalization
 
-- Model training with Logistic Regression, Naive Bayes, and Random Forest
+- Model training with Naive Bayes, Conv1D, LSTM'S and DistillBert 
 
 - Performance evaluation using Confusion Matrix, ROC–AUC Curve, and F1-score
 
@@ -26,8 +26,9 @@ On the custom dataset: the model achieved substantially higher accuracy and AUC 
 📈 Model Performance
 
 Dataset	          	  	
-* Kaggle (original)  	Accuracy ~ 0.72	  F1-Score ~ 0.70	     ROC–AUC ~ 0.74
+* Kaggle (original)  	Accuracy ~ 0.84	  F1-Score ~ 0.84	     ROC–AUC ~ 0.87
 * Custom (curated)	  Accuracy ~ 0.89	  F1-Score ~ 0.88	     ROC–AUC ~ 0.91
+
 
 - Observation: The Kaggle dataset’s noisy labels limited performance.
 
