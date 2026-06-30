@@ -29,6 +29,8 @@ Dataset
 * Kaggle (original)  	Accuracy ~ 0.84	  F1-Score ~ 0.84	     ROC–AUC ~ 0.87
 * Custom (curated)	  Accuracy ~ 0.89	  F1-Score ~ 0.88	     ROC–AUC ~ 0.91
 
+Link to Google Colab Notebook: https://colab.research.google.com/drive/1o5y9Vs20bDM2zm-3oobrwJ7oE_Azu4Kh#scrollTo=vSdn8XqfUeQg
+
 
 - Observation: The Kaggle dataset’s noisy labels limited performance.
 
